@@ -1,1 +1,1 @@
-Sample codes on Scala
+Sample codes on Scala.
